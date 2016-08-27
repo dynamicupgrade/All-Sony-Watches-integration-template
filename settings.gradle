@@ -1,0 +1,4 @@
+include ':smartExtensionAPI', ':androidwear', ':testlibrary'
+include ':smartExtensionUtils'
+include ':backwardsCompatibleControl'
+

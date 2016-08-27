@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/layout/sample_control.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/src/main/res/layout/sample_control.xml"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/layout/smart_watch_widget.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/exploded-aar/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/unspecified/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/layout/sample_control_2.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/src/main/res/layout/sample_control_2.xml"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/exploded-aar/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/unspecified/res/layout/smart_watch_notification_widget.xml"
+    }
+]

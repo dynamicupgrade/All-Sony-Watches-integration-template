@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_small.PNG",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/src/main/res/drawable-hdpi/icon_small.PNG"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/backwardsCompatibleControl/src/main/res/drawable-hdpi/icon.png"
+    }
+]

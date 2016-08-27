@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thatPlace/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_bc427be8aeb082b41e94c12d43a8b59cb91adf77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_0694d2ad57bc258f5e089bbfcdda8f3a86b94afa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ed959abb2264fbf8d4c4bac8fd62b728a5ddf98">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72af1aabdb0a4f73ffbeca27e756125d15c85919/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_8d1979e951359cd968f6788401ab9d37fc6c6c7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_36de6336e26f9828aaedf1ec547b877df3218a18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_a9a9777d394212445b500cd3535a0f82ad0d3df6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aef322211722f43563b92bfb112aa76df931c9bf">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3515a8d1a8451bbf4f7367327790e26c09aef89a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_4e0247eb1d056cfe60094615c167e56c8a5d87df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_f2d87ce3cb3be82dff13f16b73080d479f09f726/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_ce87838f23d480bc0a05a256ff27e5cf710d10d1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="/Users/thatPlace/Dropbox/projectGenesis/Templates/android/SmartExtensions/SmartExtensionLiveViewTemplate/androidwear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha2_a9801382e5a0baf1ea0dfa04d54ac72afda67da5/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "22.0.1"
+    defaultConfig {
+        applicationId "com.example.sonymobile.smartextension.backwardscompatiblecontrol"
+        minSdkVersion 15
+        targetSdkVersion 17
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(path: ':smartExtensionUtils')
+}

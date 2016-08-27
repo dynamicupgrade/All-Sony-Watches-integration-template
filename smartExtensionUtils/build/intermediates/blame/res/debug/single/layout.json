@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/build/intermediates/res/merged/debug/layout/smart_watch_widget.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/src/main/res/layout/smart_watch_widget.xml"
+    },
+    {
+        "merged": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/build/intermediates/res/merged/debug/layout/smart_watch_notification_widget.xml",
+        "source": "/Users/thatPlace/Documents/GitHub/liveViewSmartExtensionsAndroidWear/smartExtensionUtils/src/main/res/layout/smart_watch_notification_widget.xml"
+    }
+]
